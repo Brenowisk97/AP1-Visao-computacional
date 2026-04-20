@@ -1,2 +1,2 @@
-# AP1-Vis-o-Computacional-
+# AP1-Visao-Computacional-
 blablabla
